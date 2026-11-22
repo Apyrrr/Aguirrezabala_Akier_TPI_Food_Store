@@ -4,7 +4,7 @@ Aplicación web de pedidos de comida: catálogo con búsqueda y filtros, carrito
 
 - **Alumno:** Akier Aguirrezabala
 - **Repositorio público (GitHub):** `https://github.com/Apyrrr/Aguirrezabala_Akier_TPI_Food_Store`
-- **Video demostrativo (10–15 min):** `PEGAR_AQUI_URL_PUBLICA_DEL_VIDEO`
+- **Video demostrativo (10–15 min):** `https://www.youtube.com/watch?v=dmByshac38I`
 
 ## Stack
 
