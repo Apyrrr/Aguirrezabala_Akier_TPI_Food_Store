@@ -3,7 +3,7 @@
 Aplicación web de pedidos de comida: catálogo con búsqueda y filtros, carrito, checkout, historial de pedidos del cliente y panel de administración (categorías, productos, pedidos, usuarios y resumen).
 
 - **Alumno:** Akier Aguirrezabala
-- **Repositorio público (GitHub):** `PEGAR_AQUI_URL_DEL_REPOSITORIO`
+- **Repositorio público (GitHub):** `https://github.com/Apyrrr/Aguirrezabala_Akier_TPI_Food_Store`
 - **Video demostrativo (10–15 min):** `PEGAR_AQUI_URL_PUBLICA_DEL_VIDEO`
 
 ## Stack
